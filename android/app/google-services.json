@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86632052958",
+    "project_id": "hack-prep-1",
+    "storage_bucket": "hack-prep-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86632052958:android:8359aefe785e33fe2e2a4f",
+        "android_client_info": {
+          "package_name": "com.example.login_logout_email"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmxTwr0d2uYqcw8ygsJbLoxOn5iPPCGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
